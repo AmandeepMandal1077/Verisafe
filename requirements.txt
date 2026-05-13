@@ -1,0 +1,38 @@
+# LLM Integration (LangChain and models)
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+openai
+anthropic
+google-generativeai
+ollama
+python-dotenv
+
+# Machine Learning & NLP
+scikit-learn
+transformers
+datasets
+torch
+
+# Database (for storing metadata as per your pipeline)
+pymongo
+
+# Parsing & Security Analysis
+bandit
+semgrep
+
+# Data Processing & Reporting
+pandas
+numpy
+jinja2
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+requests
+pyyaml
+pytest
