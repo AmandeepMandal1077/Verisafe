@@ -5,6 +5,7 @@ langchain-core
 langchain-openai
 langchain-anthropic
 langchain-google-genai
+langchain-ollama
 openai
 anthropic
 google-generativeai
